@@ -1,0 +1,17 @@
+body {
+  background-color: green;
+  font-family: Verdana;
+  }
+
+.round-border {
+  background-color:(0,0,0,0);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 10px;
+  padding: 1em 1.5em 1em 1.5em; 
+}
+
+.yellow-lines {
+  color: yellow;
+}
+
